@@ -4,9 +4,7 @@ The M<sup>5</sup>HisDoc dataset for the research of historical document analysis
 
 ## Download
 
-[[Google Drive]](https://drive.google.com/drive/folders/1MRtmqHhuC1FPPIl8IEkf7hawituoO37p?usp=sharing)
 
-[[Baidu Drive]](https://pan.baidu.com/s/1xRtJ6a1qSB8BIWXKpAc4Xg?pwd=zd80)
 
 ( To facilitate data exploration, we randomly sampled 5% of the data and stored it in the "M5HisDoc_examples" folder for reference. )
 <!-- Note: The M<sup>5</sup>HisDoc dataset can only be used for non-commercial research purposes. For scholars or organizations who want to use the M<sup>5</sup>HisDoc database, please first fill in this [Application Form](Application_Form/Application-Form-for-Using-M6Doc.docx) and send it via email to us ([lianwen.jin@gmail.com](mailto:lianwen.jin@gmail.com) or [eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)). When submitting the application form to us, please list or attach 1-2 of your publications in the recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, handwriting analysis and recognition, document image processing, or visual information extraction. At present, this dataset is only freely available to scholars in the above-mentioned fields. **We will give you the download link and decompression password after your letter has been received and approved**. -->
