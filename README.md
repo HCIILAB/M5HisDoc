@@ -71,5 +71,15 @@ The dataset is organized in the following directory format:
 
 ```
 
+# Citation
+```
+@inproceedings{shi2023m5hisdoc,
+  title={M5HisDoc: A Large-scale Multi-style Chinese Historical Document Analysis Benchmark},
+  author={Shi, Yongxin and Liu, Chongyu and Peng, Dezhi and Jian, Cheng and Huang, Jiarong and Jin, Lianwen},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+  year={2023}
+}
+```
+
 # Contact
 For any questions about the dataset, please contact the authors by sending an email to Prof. Jin([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn), or [lianwen.jin@gmail.com](mailto:lianwen.jin@gmail.com)). 
