@@ -1,6 +1,6 @@
 # Download
 
-- The MSDS dataset can only be used for non-commercial research purposes. For scholar or organization who wants to use the MSDS dataset, please first fill in this [Application Form](./Application_form/Application-Form-for-Using-M5HisDoc.docx) and sign the [Legal Commitment](./Application_form/Legal-Commitment-for-Using-M5HisDoc.docx) and email them to us. When submitting the application form to us, please list or attached 1-2 of your publications in the recent 6 years to indicate that you (or your team) do research in the related research fields of handwriting verification, handwriting analysis and recognition, document image processing, and so on. 
+- The M<sup>5</sup>HisDoc dataset can only be used for non-commercial research purposes. For scholar or organization who wants to use the M<sup>5</sup>HisDoc dataset, please first fill in this [Application Form](./Application_form/Application-Form-for-Using-M5HisDoc.docx) and sign the [Legal Commitment](./Application_form/Legal-Commitment-for-Using-M5HisDoc.docx) and email them to us. When submitting the application form to us, please list or attached 1-2 of your publications in the recent 6 years to indicate that you (or your team) do research in the related research fields of handwriting verification, handwriting analysis and recognition, document image processing, and so on. 
 - We will give you the download link and the decompression password after your application has been received and approved.
 - All users must follow all use conditions; otherwise, the authorization will be revoked.
 
